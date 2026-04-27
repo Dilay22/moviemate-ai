@@ -1,0 +1,36 @@
+AI Usage Documentation
+
+Project: MovieMate AI
+
+Team members:
+- Dilay Selim
+- Eda Selmani
+
+We used AI assistance during the development of MovieMate AI.
+
+#Where AI assistance was used
+
+AI assistance was used for:
+- brainstorming and refining the project topic
+- designing the LangGraph workflow
+- planning the RAG corpus structure
+- creating starter code for LangChain, LangGraph, RAG, FAISS, and Tavily web search
+- debugging environment variable, embedding, vector store, and API key issues
+- improving the prompt used for movie recommendations
+- improving README, report, and presentation structure
+- generating ideas for demo queries and expected outputs
+
+#How AI assistance was used
+
+AI assistance was used as a development helper and tutor. It helped us understand errors, organize the project structure, and improve the agent workflow. The final project was reviewed and tested by the team.
+
+All group members are responsible for understanding the final code, including:
+- how LangGraph controls the workflow
+- how LangChain is used for prompts, LLM calls, and tools
+- how RAG retrieves relevant documents
+- how Tavily web search is conditionally triggered
+- how API keys are loaded from `.env`
+
+#Academic integrity statement
+
+No code from another group was reused. AI assistance was used only to support learning, debugging, documentation, and project development.
