@@ -244,7 +244,7 @@ Example terminal evidence:
 ```
 
 ##Video Demo:
-MovieMate_AI_Demo_DilaySelim_EdaSelmani
+https://drive.google.com/file/d/18LmxbY58lSMoEyDTZ0dmGqZN_l44waut/view?usp=share_link
 
 ## Academic Integrity
 
