@@ -243,7 +243,7 @@ Example terminal evidence:
 🌐 Web search returned results:
 ```
 
-##Video Demo
+##Video Demo:
 MovieMate_AI_Demo_DilaySelim_EdaSelmani
 
 ## Academic Integrity
